@@ -22,4 +22,29 @@ A simple Django-based backend API for scheduling reminders. Users can create rem
 
 ---
 
+remind-me-later/
+├── manage.py
+├── remind_me_later/
+│ ├── init.py
+│ ├── settings.py
+│ ├── urls.py
+│ └── wsgi.py
+├── reminders/
+│ ├── init.py
+│ ├── admin.py
+│ ├── apps.py
+│ ├── models.py
+│ ├── serializers.py
+│ ├── views.py
+│ ├── urls.py
+│ └── migrations/
+├── requirements.txt
+└── README.md
+
+
+
+
+
+
+
 
